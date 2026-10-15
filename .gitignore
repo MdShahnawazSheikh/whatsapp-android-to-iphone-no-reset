@@ -1,0 +1,16 @@
+# never commit phone data
+*.db
+*.sqlite
+*.sqlite-*
+*.crypt1*
+*.ipa
+*.webp
+android/
+stickers/
+ipa/
+backups/
+watoi-src/
+.run/
+validate/
+*.log
+.DS_Store
